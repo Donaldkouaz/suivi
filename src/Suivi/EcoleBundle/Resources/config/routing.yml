@@ -1,0 +1,3 @@
+suivi_ecole_homepage:
+    path:     /
+    defaults: { _controller: SuiviEcoleBundle:Default:index }
